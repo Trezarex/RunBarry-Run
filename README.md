@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RunBarry-Run
-- 👀 I’m interested in DSA/Competitive Programming/Machine Learning
-- 🌱 I’m currently learning DSA
+- 👋 Hi, I’m Aman Sharma
+- 👀 I’m interested in DSA/Competitive Programming/Data Science
+- 🌱 I’m currently learning DSA/Excel/Matlab .. . ...
 - 💞️ I’m looking to collaborate on anything related to machine learning/data science
 - 📫 How to reach me .. via linkedin or twitter
 
