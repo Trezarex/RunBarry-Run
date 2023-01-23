@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
 
-I'm Aditya Rawat a Frontend Web Developer and a Competitive Programmer. At the moment I am learning SQL and DSA.
+I'm Aman Sharma a Frontend Web Developer and a Competitive Programmer. At the moment I am learning SQL and DSA.
 
 <!-- TODO: Add last video link -->
 
@@ -39,4 +39,4 @@ I'm Aditya Rawat a Frontend Web Developer and a Competitive Programmer. At the m
 
 <br>
 
-### ![](https://komarev.com/ghpvc/?username=Cs-Aditya-Rawat&color=orange&label=Visitors+)
+### ![](https://komarev.com/ghpvc/?username=RunBarry-Run&color=orange&label=Visitors+)
